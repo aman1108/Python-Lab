@@ -1,2 +1,2 @@
 # Python-Lab
-Lab Work of Python Programming of Bacth 2022
+Lab Work of Python Programming of Batch 2022
